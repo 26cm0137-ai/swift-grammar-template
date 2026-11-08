@@ -9,16 +9,26 @@
 ---
 
 ## 何ができるアプリか（3行）
-
-（例：買い物リストを作るアプリ。品名を入力して追加できる。買ったものにチェックを付けると一覧から消える。）
+・写真を見て、正しい答えを入力するゲームです。
+・30秒以内にできるだけ多くの問題に正解することを目指します。
+・「世界」「学校」「ハロウィン」の3つのカテゴリーでゲームを楽しめます。
 
 ## 画面
 
-（スクリーンショットを貼る。GitHub の編集画面に画像をドラッグ＆ドロップすると貼れます。）
+<img width="354" height="743" alt="スクリーンショット 2026-11-08 17 49 22" src="https://github.com/user-attachments/assets/d19325b2-2cfd-42bc-be51-f5af233968e8" />
+
 
 ## 使った文法・技術
+・Swift
+・SwiftUI
+・Xcode
+・@State
+・@EnvironmentObject
+・VStack / HStack / ZStack
+・ForEach
+・UserDefaults
+・画面遷移（NavigationStack / sheet）
 
-（例：`@State`、`List`、`ForEach`、構造体、配列の `append` と `remove`）
 
 ## 生成AIの使い方（どの場面で、どう使ったか）
 
