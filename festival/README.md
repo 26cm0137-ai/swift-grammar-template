@@ -15,7 +15,7 @@
 
 ## 画面
 
-<img width="354" height="743" alt="スクリーンショット 2026-11-08 17 49 22" src="https://github.com/user-attachments/assets/d19325b2-2cfd-42bc-be51-f5af233968e8" />
+<img width="300" height="500" alt="スクリーンショット 2026-11-08 17 49 22" src="https://github.com/user-attachments/assets/d19325b2-2cfd-42bc-be51-f5af233968e8" />
 
 
 ## 使った文法・技術
